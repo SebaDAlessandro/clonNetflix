@@ -1,0 +1,9 @@
+.socialLinks{
+    /* background:blue; */
+    display: flex;
+    align-items: center;
+}
+
+.iconLinks {
+    margin-right: 10px;
+}
